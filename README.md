@@ -63,10 +63,7 @@ The emotion detection model is a convolutional neural network (CNN) trained on f
 ## Customization
 
 To adjust the duration for which a "happy" expression must be detected, modify the `happy_duration_threshold` variable in `emotion_detection.py`.
-## Overview 
 
-![Capture d’écran (922)](https://github.com/user-attachments/assets/1024f9a8-4d94-44af-8d6f-9b09888ec144)
-![Capture d’écran (921)](https://github.com/user-attachments/assets/f1559b26-bfbd-4ce3-9db5-443750f44e19)
 
 ## Contributing
 
